@@ -1,3 +1,3 @@
 # Csharp-Basics-3
 
-### Classes and Objects
+### Classes and Objects, Methods, Getters & Setters. Public, private, and static attributes.
